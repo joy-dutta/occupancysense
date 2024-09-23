@@ -1,4 +1,3 @@
-# occupancysense
 # OccupancySense: Context-based Indoor Occupancy Detection & Prediction
 
 This repository contains the code and dataset for the paper:
